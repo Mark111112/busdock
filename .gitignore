@@ -38,6 +38,7 @@ buspic/
 data/
 
 # Logs
+logs/
 *.log
 
 # IDE files
