@@ -3,7 +3,7 @@ version: '3'
 services:
   javbus:
     build: .
-    container_name: javbus-web
+    container_name: bus-web
     restart: unless-stopped
     ports:
       - "8080:8080"
