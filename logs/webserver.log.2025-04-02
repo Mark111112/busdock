@@ -1,0 +1,77 @@
+2025-04-02 16:02:18,441 - INFO - 已从配置文件加载 57 条番号映射
+2025-04-02 16:02:18,444 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'drtp': '1drpt', 'emth': 'h_1638emth', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-04-02 16:02:18,446 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-04-02 16:02:18,447 - INFO - 番号映射初始化完成，共加载 57 条映射规则
+2025-04-02 16:02:18,447 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-04-02 16:02:18,447 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-04-02 16:02:18,448 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-04-02 16:02:18,449 - INFO - Loaded configuration file: config/config.json
+2025-04-02 16:02:18,450 - INFO - Using API URL from config file: 
+2025-04-02 16:03:05,229 - INFO - Configuration saved successfully
+2025-04-02 16:03:54,984 - INFO - 已从配置文件加载 57 条番号映射
+2025-04-02 16:03:54,984 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'drtp': '1drpt', 'emth': 'h_1638emth', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-04-02 16:03:54,986 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-04-02 16:03:54,986 - INFO - 番号映射初始化完成，共加载 57 条映射规则
+2025-04-02 16:03:54,987 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-04-02 16:03:54,987 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-04-02 16:03:54,987 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-04-02 16:03:54,989 - INFO - Loaded configuration file: config/config.json
+2025-04-02 16:03:54,989 - INFO - Using API URL from config file: http://192.168.1.133:8924/api/
+2025-04-02 16:04:30,038 - INFO - Fetching summary from API for movie ID: XVSR-804
+2025-04-02 16:04:31,530 - INFO - Found summary for XVSR-804 from API
+2025-04-02 16:05:45,417 - INFO - Fetching summary from API for movie ID: REAL-895
+2025-04-02 16:05:47,779 - INFO - Found summary for REAL-895 from API
+2025-04-02 16:06:20,833 - INFO - Fetching summary from API for movie ID: IPX-964
+2025-04-02 16:06:23,174 - INFO - Found summary for IPX-964 from API
+2025-04-02 16:06:27,236 - ERROR - Failed to download image from https://pics.dmm.co.jp/digital/video/ipx00964/ipx00964jp-8.jpg: HTTPSConnectionPool(host='pics.dmm.co.jp', port=443): Max retries exceeded with url: /digital/video/ipx00964/ipx00964jp-8.jpg (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1147)')))
+2025-04-02 16:06:27,312 - ERROR - Failed to download image from https://pics.dmm.co.jp/digital/video/ipx00964/ipx00964jp-9.jpg: HTTPSConnectionPool(host='pics.dmm.co.jp', port=443): Max retries exceeded with url: /digital/video/ipx00964/ipx00964jp-9.jpg (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1147)')))
+2025-04-02 16:06:27,316 - ERROR - Failed to download image from https://pics.dmm.co.jp/digital/video/ipx00964/ipx00964jp-11.jpg: HTTPSConnectionPool(host='pics.dmm.co.jp', port=443): Max retries exceeded with url: /digital/video/ipx00964/ipx00964jp-11.jpg (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1147)')))
+2025-04-02 16:07:03,014 - INFO - Fetching summary from API for movie ID: IPX-743
+2025-04-02 16:07:06,225 - INFO - Found summary for IPX-743 from API
+2025-04-02 16:07:31,549 - INFO - Fetching summary from API for movie ID: IBW-964
+2025-04-02 16:07:36,630 - WARNING - Could not find summary for IBW-964 from API (HTTP 404)
+2025-04-02 16:07:47,515 - INFO - Fetching summary from API for movie ID: IBW-967
+2025-04-02 16:07:52,500 - WARNING - Could not find summary for IBW-967 from API (HTTP 404)
+2025-04-02 16:08:01,769 - INFO - Fetching summary from API for movie ID: IBW-955
+2025-04-02 16:08:06,093 - WARNING - Could not find summary for IBW-955 from API (HTTP 404)
+2025-04-02 16:24:29,582 - INFO - Fetching summary from API for movie ID: GESU-010
+2025-04-02 16:24:32,520 - INFO - Found summary for GESU-010 from API
+2025-04-02 16:25:03,117 - INFO - Fetching summary from API for movie ID: GESU-016
+2025-04-02 16:25:05,779 - INFO - Found summary for GESU-016 from API
+2025-04-02 20:47:52,893 - INFO - Fetching summary from API for movie ID: GESU-003
+2025-04-02 20:47:55,106 - INFO - Found summary for GESU-003 from API
+2025-04-02 22:40:14,458 - INFO - 已从配置文件加载 57 条番号映射
+2025-04-02 22:40:14,459 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'drtp': '1drpt', 'emth': 'h_1638emth', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-04-02 22:40:14,461 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-04-02 22:40:14,461 - INFO - 番号映射初始化完成，共加载 57 条映射规则
+2025-04-02 22:40:14,462 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-04-02 22:40:14,462 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-04-02 22:40:14,463 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-04-02 22:40:14,464 - INFO - Loaded configuration file: config/config.json
+2025-04-02 22:40:14,465 - INFO - Using API URL from config file: http://192.168.1.133:8924/api/
+2025-04-02 22:40:29,881 - INFO - Fetching summary from API for movie ID: RPIN-085
+2025-04-02 22:40:31,159 - INFO - Found summary for RPIN-085 from API
+2025-04-02 22:40:50,447 - INFO - Fetching summary from API for movie ID: XVSR-805
+2025-04-02 22:40:52,528 - INFO - Found summary for XVSR-805 from API
+2025-04-02 23:00:07,629 - ERROR - 搜索失败: HTTPConnectionPool(host='192.168.1.133', port=8924): Max retries exceeded with url: /api//movies?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7feccc446880>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-02 23:01:22,517 - INFO - Fetching summary from API for movie ID: VEC-693
+2025-04-02 23:01:24,205 - INFO - Found summary for VEC-693 from API
+2025-04-02 23:01:47,560 - INFO - Fetching summary from API for movie ID: MIDA-103
+2025-04-02 23:01:50,051 - INFO - Found summary for MIDA-103 from API
+2025-04-02 23:27:28,070 - INFO - 已从配置文件加载 57 条番号映射
+2025-04-02 23:27:28,070 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'drtp': '1drpt', 'emth': 'h_1638emth', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-04-02 23:27:28,072 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-04-02 23:27:28,073 - INFO - 番号映射初始化完成，共加载 57 条映射规则
+2025-04-02 23:27:28,073 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-04-02 23:27:28,074 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-04-02 23:27:28,074 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-04-02 23:27:28,076 - INFO - Loaded configuration file: config/config.json
+2025-04-02 23:27:28,076 - INFO - Using API URL from config file: https://alleged-kylynn-geetaa-a9958d9e.koyeb.app/api
+2025-04-02 23:28:21,310 - INFO - Fetching summary from API for movie ID: DPHN-157
+2025-04-02 23:28:24,533 - INFO - Found summary for DPHN-157 from API
+2025-04-02 23:29:37,052 - INFO - Fetching summary from API for movie ID: NATR-138
+2025-04-02 23:29:40,788 - INFO - Found summary for NATR-138 from API
+2025-04-02 23:29:47,933 - INFO - Fetching summary from API for movie ID: MADA-039
+2025-04-02 23:29:50,032 - INFO - Found summary for MADA-039 from API
+2025-04-02 23:30:16,685 - INFO - Fetching summary from API for movie ID: NATR-356
+2025-04-02 23:30:19,616 - INFO - Found summary for NATR-356 from API

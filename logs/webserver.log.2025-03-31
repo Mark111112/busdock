@@ -1,0 +1,36 @@
+2025-03-31 09:28:02,826 - INFO - 已从配置文件加载 55 条番号映射
+2025-03-31 09:28:02,831 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-03-31 09:28:02,833 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-03-31 09:28:02,834 - INFO - 番号映射初始化完成，共加载 55 条映射规则
+2025-03-31 09:28:02,834 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-03-31 09:28:02,835 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-03-31 09:28:02,835 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-03-31 09:28:02,837 - INFO - Loaded configuration file: config/config.json
+2025-03-31 15:22:57,705 - INFO - 已从配置文件加载 55 条番号映射
+2025-03-31 15:22:57,706 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-03-31 15:22:57,709 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-03-31 15:22:57,710 - INFO - 番号映射初始化完成，共加载 55 条映射规则
+2025-03-31 15:22:57,710 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-03-31 15:22:57,711 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-03-31 15:22:57,711 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-03-31 15:22:57,713 - INFO - Loaded configuration file: config/config.json
+2025-03-31 15:22:57,714 - INFO - Using API URL from environment: https://javbus-api-from-ovnrain-taupe.vercel.app/api
+2025-03-31 15:22:57,715 - INFO - Updated configuration file with API URL from environment
+2025-03-31 15:25:29,760 - INFO - 已从配置文件加载 55 条番号映射
+2025-03-31 15:25:29,760 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-03-31 15:25:29,762 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-03-31 15:25:29,762 - INFO - 番号映射初始化完成，共加载 55 条映射规则
+2025-03-31 15:25:29,763 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-03-31 15:25:29,763 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-03-31 15:25:29,763 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-03-31 15:25:29,765 - INFO - Loaded configuration file: config/config.json
+2025-03-31 15:25:29,765 - INFO - Using API URL from config file: 
+2025-03-31 15:32:22,300 - INFO - 已从配置文件加载 55 条番号映射
+2025-03-31 15:32:22,300 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-03-31 15:32:22,302 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-03-31 15:32:22,303 - INFO - 番号映射初始化完成，共加载 55 条映射规则
+2025-03-31 15:32:22,303 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-03-31 15:32:22,303 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-03-31 15:32:22,304 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-03-31 15:32:22,305 - INFO - Loaded configuration file: config/config.json
+2025-03-31 15:32:22,305 - INFO - Using API URL from config file: 

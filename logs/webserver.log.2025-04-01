@@ -1,0 +1,771 @@
+2025-04-01 11:29:03,009 - INFO - 已从配置文件加载 55 条番号映射
+2025-04-01 11:29:03,013 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-04-01 11:29:03,014 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-04-01 11:29:03,015 - INFO - 番号映射初始化完成，共加载 55 条映射规则
+2025-04-01 11:29:03,015 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-04-01 11:29:03,016 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-04-01 11:29:03,016 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-04-01 11:29:03,018 - INFO - Loaded configuration file: config/config.json
+2025-04-01 11:29:03,018 - INFO - Using API URL from config file: 
+2025-04-01 11:29:34,784 - ERROR - 搜索失败: Invalid URL '/movies/search': No scheme supplied. Perhaps you meant https:///movies/search?
+2025-04-01 11:30:06,709 - INFO - Configuration saved successfully
+2025-04-01 11:31:12,976 - INFO - 已从配置文件加载 55 条番号映射
+2025-04-01 11:31:12,977 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-04-01 11:31:12,978 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-04-01 11:31:12,979 - INFO - 番号映射初始化完成，共加载 55 条映射规则
+2025-04-01 11:31:12,979 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-04-01 11:31:12,980 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-04-01 11:31:12,980 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-04-01 11:31:12,982 - INFO - Loaded configuration file: config/config.json
+2025-04-01 11:31:12,982 - INFO - Using API URL from config file: https://javbus-api-from-ovnrain-taupe.vercel.app/api
+2025-04-01 11:31:34,853 - INFO - Fetching summary from FANZA for movie ID: GVG-987
+2025-04-01 11:31:34,854 - INFO - 检测到已知前缀 gvg，映射到 13gvg
+2025-04-01 11:31:34,855 - INFO - 特殊处理映射，最终ID: 13gvg987
+2025-04-01 11:31:34,855 - INFO - 影片编号 GVG-987 已被标准化为 13gvg987
+2025-04-01 11:31:34,856 - INFO - 无法匹配常规格式，使用原始ID: 13gvg987
+2025-04-01 11:31:34,857 - INFO - 标准化ID: 13gvg987 -> 13gvg987
+2025-04-01 11:31:34,858 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:34,859 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:34,859 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:34,860 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:34,860 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:34,861 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:34,862 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:35,845 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:36,693 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:37,717 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:38,580 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:39,368 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg987/
+2025-04-01 11:31:40,307 - WARNING - 未能获取到电影 GVG-987 的简介
+2025-04-01 11:31:40,310 - INFO - 检测到已知前缀 gvg，映射到 13gvg
+2025-04-01 11:31:40,311 - INFO - 特殊处理映射，最终ID: 13gvg987
+2025-04-01 11:31:40,311 - WARNING - Could not find summary for GVG-987 (normalized as 13gvg987)
+2025-04-01 11:31:58,999 - INFO - Fetching summary from FANZA for movie ID: GVG-029
+2025-04-01 11:31:59,000 - INFO - 检测到已知前缀 gvg，映射到 13gvg
+2025-04-01 11:31:59,000 - INFO - 特殊处理映射，最终ID: 13gvg029
+2025-04-01 11:31:59,001 - INFO - 影片编号 GVG-029 已被标准化为 13gvg029
+2025-04-01 11:31:59,001 - INFO - 无法匹配常规格式，使用原始ID: 13gvg029
+2025-04-01 11:31:59,002 - INFO - 标准化ID: 13gvg029 -> 13gvg029
+2025-04-01 11:31:59,003 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg029/
+2025-04-01 11:31:59,003 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg029/
+2025-04-01 11:31:59,004 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg029/
+2025-04-01 11:31:59,004 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg029/
+2025-04-01 11:31:59,004 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg029/
+2025-04-01 11:31:59,005 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg029/
+2025-04-01 11:31:59,005 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg029/
+2025-04-01 11:31:59,937 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg029/
+2025-04-01 11:32:00,926 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg029/
+2025-04-01 11:32:01,861 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg029/
+2025-04-01 11:32:02,832 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg029/
+2025-04-01 11:32:03,757 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg029/
+2025-04-01 11:32:04,815 - WARNING - 未能获取到电影 GVG-029 的简介
+2025-04-01 11:32:04,818 - INFO - 检测到已知前缀 gvg，映射到 13gvg
+2025-04-01 11:32:04,819 - INFO - 特殊处理映射，最终ID: 13gvg029
+2025-04-01 11:32:04,819 - WARNING - Could not find summary for GVG-029 (normalized as 13gvg029)
+2025-04-01 11:32:13,344 - INFO - Fetching summary from FANZA for movie ID: GVG-411
+2025-04-01 11:32:13,345 - INFO - 检测到已知前缀 gvg，映射到 13gvg
+2025-04-01 11:32:13,347 - INFO - 特殊处理映射，最终ID: 13gvg411
+2025-04-01 11:32:13,348 - INFO - 影片编号 GVG-411 已被标准化为 13gvg411
+2025-04-01 11:32:13,350 - INFO - 无法匹配常规格式，使用原始ID: 13gvg411
+2025-04-01 11:32:13,351 - INFO - 标准化ID: 13gvg411 -> 13gvg411
+2025-04-01 11:32:13,352 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg411/
+2025-04-01 11:32:13,353 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg411/
+2025-04-01 11:32:13,354 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg411/
+2025-04-01 11:32:13,354 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg411/
+2025-04-01 11:32:13,355 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg411/
+2025-04-01 11:32:13,357 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg411/
+2025-04-01 11:32:13,358 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg411/
+2025-04-01 11:32:16,032 - INFO - 从HTML内容获取摘要
+2025-04-01 11:32:16,034 - INFO - Found summary for GVG-411 from source: html
+2025-04-01 11:32:16,034 - INFO - Summary URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg411/
+2025-04-01 11:32:16,035 - INFO - FANZA ID used: 13gvg411
+2025-04-01 11:32:16,035 - INFO - Found summary for GVG-411 from FANZA
+2025-04-01 11:33:28,283 - INFO - Fetching summary from FANZA for movie ID: GVG-742
+2025-04-01 11:33:28,284 - INFO - 检测到已知前缀 gvg，映射到 13gvg
+2025-04-01 11:33:28,284 - INFO - 特殊处理映射，最终ID: 13gvg742
+2025-04-01 11:33:28,285 - INFO - 影片编号 GVG-742 已被标准化为 13gvg742
+2025-04-01 11:33:28,286 - INFO - 无法匹配常规格式，使用原始ID: 13gvg742
+2025-04-01 11:33:28,286 - INFO - 标准化ID: 13gvg742 -> 13gvg742
+2025-04-01 11:33:28,287 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:28,288 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:28,288 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:28,289 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:28,289 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:28,290 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:28,291 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:29,637 - ERROR - 获取电影 GVG-742 的简介失败: HTTPSConnectionPool(host='www.dmm.co.jp', port=443): Max retries exceeded with url: /mono/dvd/-/detail/=/cid=13gvg742/ (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1147)')))
+2025-04-01 11:33:29,638 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:30,603 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:31,782 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:32,662 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:33,635 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg742/
+2025-04-01 11:33:35,667 - WARNING - 未能获取到电影 GVG-742 的简介
+2025-04-01 11:33:35,670 - INFO - 检测到已知前缀 gvg，映射到 13gvg
+2025-04-01 11:33:35,670 - INFO - 特殊处理映射，最终ID: 13gvg742
+2025-04-01 11:33:35,671 - WARNING - Could not find summary for GVG-742 (normalized as 13gvg742)
+2025-04-01 11:34:21,519 - INFO - Fetching summary from FANZA for movie ID: GVG-742
+2025-04-01 11:34:21,520 - INFO - 检测到已知前缀 gvg，映射到 13gvg
+2025-04-01 11:34:21,521 - INFO - 特殊处理映射，最终ID: 13gvg742
+2025-04-01 11:34:21,524 - INFO - 影片编号 GVG-742 已被标准化为 13gvg742
+2025-04-01 11:34:21,526 - INFO - 无法匹配常规格式，使用原始ID: 13gvg742
+2025-04-01 11:34:21,527 - INFO - 标准化ID: 13gvg742 -> 13gvg742
+2025-04-01 11:34:21,528 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg742/
+2025-04-01 11:34:21,528 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg742/
+2025-04-01 11:34:21,529 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg742/
+2025-04-01 11:34:21,529 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg742/
+2025-04-01 11:34:21,531 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg742/
+2025-04-01 11:34:21,532 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg742/
+2025-04-01 11:34:21,535 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg742/
+2025-04-01 11:34:23,595 - INFO - 从HTML内容获取摘要
+2025-04-01 11:34:23,597 - INFO - Found summary for GVG-742 from source: html
+2025-04-01 11:34:23,597 - INFO - Summary URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg742/
+2025-04-01 11:34:23,598 - INFO - FANZA ID used: 13gvg742
+2025-04-01 11:34:23,598 - INFO - Found summary for GVG-742 from FANZA
+2025-04-01 11:34:31,022 - INFO - Translation request: API URL = https://api.siliconflow.cn/v1/chat/completions, Model = THUDM/glm-4-9b-chat
+2025-04-01 11:34:31,023 - INFO - Translation request: API URL = https://api.siliconflow.cn/v1/chat/completions, Model = THUDM/glm-4-9b-chat
+2025-04-01 11:34:31,023 - INFO - Text to translate: GVG-742 貧乳女子の恥ずかしい敏感乳首 山井すず
+2025-04-01 11:34:31,024 - INFO - Text to translate: 微乳、貧乳娘の乳首をひたすら愛でてフェティッシュな部分を強調する本作品。貧乳であることの恥ずかしさと、感度の良さ、感度が良いが故にタガが外れた時の淫乱さがポイント。敏感乳首を責め続けるうち真面目そうで恥ずかしそうで大人しそうな彼女が乳首イキを連発するエロエロ淫乱女になっていく過程をお楽しみください。
+2025-04-01 11:34:31,481 - INFO - Translation API response status: 200
+2025-04-01 11:34:31,482 - INFO - Translation API response: {"id":"0195ef6a36cdcd9c1c4e8597bb894d53","object":"chat.completion","created":1743478470,"model":"THUDM/glm-4-9b-chat","choices":[{"index":0,"message":{"role":"assistant","content":"\nGVG-742 贫乳女子的害羞敏感乳头 山井すず"},"finish_reason":"stop"}],"usage":{"prompt_tokens":58,"completion_tokens":19,"total_tokens":77},"system_fingerprint":""}
+2025-04-01 11:34:31,482 - INFO - Extracted translated text: GVG-742 贫乳女子的害羞敏感乳头 山井すず
+2025-04-01 11:34:32,180 - INFO - Translation API response status: 200
+2025-04-01 11:34:32,181 - INFO - Translation API response: {"id":"0195ef6a36dd0eba7f607755d7bd8b49","object":"chat.completion","created":1743478470,"model":"THUDM/glm-4-9b-chat","choices":[{"index":0,"message":{"role":"assistant","content":"\n本作品专注于微乳、贫乳娘的乳头，强调其恋物癖的部分。作品以贫乳的羞耻感、敏感度以及因此导致的失控时的淫乱感为焦点。在持续责罚敏感乳头的过程中，那位看似认真、害羞、端庄的她逐渐转变为淫乱的女郎，乳头高潮连连，请尽情享受这一过程。"},"finish_reason":"stop"}],"usage":{"prompt_tokens":160,"completion_tokens":75,"total_tokens":235},"system_fingerprint":""}
+2025-04-01 11:34:32,182 - INFO - Extracted translated text: 本作品专注于微乳、贫乳娘的乳头，强调其恋物癖的部分。作品以贫乳的羞耻感、敏感度以及因此导致的失控时的淫乱感为焦点。在持续责罚敏感乳头的过程中，那位看似认真、害羞、端庄的她逐渐转变为淫乱的女郎，乳头高潮连连，请尽情享受这一过程。
+2025-04-01 11:35:35,077 - INFO - Fetching summary from FANZA for movie ID: GVG-150
+2025-04-01 11:35:35,078 - INFO - 检测到已知前缀 gvg，映射到 13gvg
+2025-04-01 11:35:35,078 - INFO - 特殊处理映射，最终ID: 13gvg150
+2025-04-01 11:35:35,079 - INFO - 影片编号 GVG-150 已被标准化为 13gvg150
+2025-04-01 11:35:35,080 - INFO - 无法匹配常规格式，使用原始ID: 13gvg150
+2025-04-01 11:35:35,080 - INFO - 标准化ID: 13gvg150 -> 13gvg150
+2025-04-01 11:35:35,081 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg150/
+2025-04-01 11:35:35,082 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg150/
+2025-04-01 11:35:35,082 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg150/
+2025-04-01 11:35:35,083 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg150/
+2025-04-01 11:35:35,083 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg150/
+2025-04-01 11:35:35,084 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg150/
+2025-04-01 11:35:35,084 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg150/
+2025-04-01 11:35:37,706 - INFO - 从HTML内容获取摘要
+2025-04-01 11:35:37,708 - INFO - Found summary for GVG-150 from source: html
+2025-04-01 11:35:37,708 - INFO - Summary URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg150/
+2025-04-01 11:35:37,709 - INFO - FANZA ID used: 13gvg150
+2025-04-01 11:35:37,709 - INFO - Found summary for GVG-150 from FANZA
+2025-04-01 11:48:59,398 - INFO - 已从配置文件加载 55 条番号映射
+2025-04-01 11:48:59,398 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-04-01 11:48:59,401 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-04-01 11:48:59,401 - INFO - 番号映射初始化完成，共加载 55 条映射规则
+2025-04-01 11:48:59,402 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-04-01 11:48:59,403 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-04-01 11:48:59,403 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-04-01 11:48:59,406 - INFO - Loaded configuration file: config/config.json
+2025-04-01 11:48:59,407 - INFO - Using API URL from config file: https://javbus-api-from-ovnrain-taupe.vercel.app/api
+2025-04-01 11:49:28,807 - INFO - Fetching summary from FANZA for movie ID: NATR-747
+2025-04-01 11:49:28,808 - INFO - 检测到已知前缀 natr，映射到 h_067natr
+2025-04-01 11:49:28,809 - INFO - 特殊处理映射，最终ID: h_067natr747
+2025-04-01 11:49:28,809 - INFO - 影片编号 NATR-747 已被标准化为 h_067natr747
+2025-04-01 11:49:28,810 - INFO - 使用已包含下划线的ID: h_067natr747
+2025-04-01 11:49:28,811 - INFO - URL (保留下划线): https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:28,811 - INFO - URL (保留下划线): https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:28,812 - INFO - URL (保留下划线): https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:28,813 - INFO - URL (保留下划线): https://www.dmm.co.jp/digital/anime/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:28,813 - INFO - URL (保留下划线): https://www.dmm.co.jp/mono/anime/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:28,814 - INFO - URL (保留下划线): https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:28,814 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:29,847 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:30,891 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:34,864 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:35,624 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:36,421 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=h_067natr747/
+2025-04-01 11:49:37,236 - WARNING - 未能获取到电影 NATR-747 的简介
+2025-04-01 11:49:37,238 - INFO - 检测到已知前缀 natr，映射到 h_067natr
+2025-04-01 11:49:37,239 - INFO - 特殊处理映射，最终ID: h_067natr747
+2025-04-01 11:49:37,240 - WARNING - Could not find summary for NATR-747 (normalized as h_067natr747)
+2025-04-01 12:19:10,672 - INFO - 已从配置文件加载 55 条番号映射
+2025-04-01 12:19:10,672 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-04-01 12:19:10,674 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-04-01 12:19:10,674 - INFO - 番号映射初始化完成，共加载 55 条映射规则
+2025-04-01 12:19:10,674 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-04-01 12:19:10,675 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-04-01 12:19:10,675 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-04-01 12:19:10,676 - INFO - Loaded configuration file: config/config.json
+2025-04-01 12:19:10,677 - INFO - Using API URL from config file: https://javbus-api-from-ovnrain-taupe.vercel.app/api
+2025-04-01 12:19:32,881 - INFO - Fetching summary from FANZA for movie ID: NATR-747
+2025-04-01 12:19:32,882 - INFO - 检测到已知前缀 natr，映射到 h_067natr
+2025-04-01 12:19:32,883 - INFO - 特殊处理映射，最终ID: h_067natr747
+2025-04-01 12:19:32,886 - INFO - 影片编号 NATR-747 已被标准化为 h_067natr747
+2025-04-01 12:19:32,888 - INFO - 使用已包含下划线的ID: h_067natr747
+2025-04-01 12:19:32,890 - INFO - URL (保留下划线): https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:32,891 - INFO - URL (保留下划线): https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:32,893 - INFO - URL (保留下划线): https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:32,894 - INFO - URL (保留下划线): https://www.dmm.co.jp/digital/anime/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:32,895 - INFO - URL (保留下划线): https://www.dmm.co.jp/mono/anime/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:32,898 - INFO - URL (保留下划线): https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:32,901 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:42,571 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:43,610 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:44,822 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:45,487 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:46,697 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=h_067natr747/
+2025-04-01 12:19:47,420 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: natr747
+2025-04-01 12:19:47,421 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=natr747/
+2025-04-01 12:19:49,777 - INFO - 从HTML内容获取摘要
+2025-04-01 12:19:49,779 - INFO - Found summary for NATR-747 from source: html
+2025-04-01 12:19:49,779 - INFO - Summary URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=natr747/
+2025-04-01 12:19:49,780 - INFO - FANZA ID used: natr747
+2025-04-01 12:19:49,780 - INFO - Found summary for NATR-747 from FANZA
+2025-04-01 12:19:58,196 - INFO - Translation request: API URL = https://api.siliconflow.cn/v1/chat/completions, Model = THUDM/glm-4-9b-chat
+2025-04-01 12:19:58,197 - INFO - Translation request: API URL = https://api.siliconflow.cn/v1/chat/completions, Model = THUDM/glm-4-9b-chat
+2025-04-01 12:19:58,197 - INFO - Text to translate: NATR-747 まるまる！香椎佳穂
+2025-04-01 12:19:58,198 - INFO - Text to translate: ショートカットが良く似合う清楚系のルックスとミステリアスな雰囲気、スレンダーボディにDカップ美乳という綺麗な体で男心を鷲掴みにする香椎佳穂。そんな彼女の魅力を余すことなく紹介！結婚した旦那の連れ子が本性を表し地獄の生活に…『狂気な息子のいる家に嫁いだ私』。同居する息子の嫁を妄想する毎日、しかしある時から妄想と現実が曖昧になり…『息子の嫁の誘惑』の2作品を完全収録！
+2025-04-01 12:19:58,599 - INFO - Translation API response status: 200
+2025-04-01 12:19:58,600 - INFO - Translation API response: {"id":"0195ef93d3dfbd16a68001a196c4224e","object":"chat.completion","created":1743481197,"model":"THUDM/glm-4-9b-chat","choices":[{"index":0,"message":{"role":"assistant","content":"\nNATR-747 完美！香椎佳穗"},"finish_reason":"stop"}],"usage":{"prompt_tokens":50,"completion_tokens":15,"total_tokens":65},"system_fingerprint":""}
+2025-04-01 12:19:58,600 - INFO - Extracted translated text: NATR-747 完美！香椎佳穗
+2025-04-01 12:19:59,713 - INFO - Translation API response status: 200
+2025-04-01 12:19:59,714 - INFO - Translation API response: {"id":"0195ef93d4256364d480ffb444f7d52c","object":"chat.completion","created":1743481197,"model":"THUDM/glm-4-9b-chat","choices":[{"index":0,"message":{"role":"assistant","content":"\n香椎佳穗，拥有清爽系外貌和神秘气质，拥有苗条身材和D杯美乳，能轻易抓住男人的心。全面介绍她的魅力！嫁入有儿子的家庭，展示了本性，生活在地狱中……《嫁给有疯狂儿子的家的我》。每天幻想与同居儿子的媳妇，但某天起，幻想与现实变得模糊……《儿子媳妇的诱惑》两作品完全收录！"},"finish_reason":"stop"}],"usage":{"prompt_tokens":192,"completion_tokens":84,"total_tokens":276},"system_fingerprint":""}
+2025-04-01 12:19:59,714 - INFO - Extracted translated text: 香椎佳穗，拥有清爽系外貌和神秘气质，拥有苗条身材和D杯美乳，能轻易抓住男人的心。全面介绍她的魅力！嫁入有儿子的家庭，展示了本性，生活在地狱中……《嫁给有疯狂儿子的家的我》。每天幻想与同居儿子的媳妇，但某天起，幻想与现实变得模糊……《儿子媳妇的诱惑》两作品完全收录！
+2025-04-01 12:20:43,445 - INFO - Fetching summary from FANZA for movie ID: GVG-876
+2025-04-01 12:20:43,446 - INFO - 检测到已知前缀 gvg，映射到 13gvg
+2025-04-01 12:20:43,446 - INFO - 特殊处理映射，最终ID: 13gvg876
+2025-04-01 12:20:43,447 - INFO - 影片编号 GVG-876 已被标准化为 13gvg876
+2025-04-01 12:20:43,448 - INFO - 无法匹配常规格式，使用原始ID: 13gvg876
+2025-04-01 12:20:43,450 - INFO - 标准化ID: 13gvg876 -> 13gvg876
+2025-04-01 12:20:43,451 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg876/
+2025-04-01 12:20:43,451 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg876/
+2025-04-01 12:20:43,452 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg876/
+2025-04-01 12:20:43,452 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg876/
+2025-04-01 12:20:43,453 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg876/
+2025-04-01 12:20:43,454 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg876/
+2025-04-01 12:20:43,454 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg876/
+2025-04-01 12:20:46,367 - INFO - 从HTML内容获取摘要
+2025-04-01 12:20:46,369 - INFO - Found summary for GVG-876 from source: html
+2025-04-01 12:20:46,370 - INFO - Summary URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg876/
+2025-04-01 12:20:46,371 - INFO - FANZA ID used: 13gvg876
+2025-04-01 12:20:46,371 - INFO - Found summary for GVG-876 from FANZA
+2025-04-01 12:21:13,472 - INFO - Fetching summary from FANZA for movie ID: GVH-733
+2025-04-01 12:21:13,472 - INFO - 检测到已知前缀 gvh，映射到 13gvh
+2025-04-01 12:21:13,473 - INFO - 特殊处理映射，最终ID: 13gvh733
+2025-04-01 12:21:13,473 - INFO - 影片编号 GVH-733 已被标准化为 13gvh733
+2025-04-01 12:21:13,474 - INFO - 无法匹配常规格式，使用原始ID: 13gvh733
+2025-04-01 12:21:13,474 - INFO - 标准化ID: 13gvh733 -> 13gvh733
+2025-04-01 12:21:13,475 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:13,476 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:13,476 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:13,478 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:13,478 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:13,479 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:13,479 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:14,338 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:15,233 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:16,299 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:17,254 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:18,107 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvh733/
+2025-04-01 12:21:19,068 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: gvh733
+2025-04-01 12:21:19,068 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=gvh733/
+2025-04-01 12:21:21,142 - INFO - 从HTML内容获取摘要
+2025-04-01 12:21:21,145 - INFO - Found summary for GVH-733 from source: html
+2025-04-01 12:21:21,146 - INFO - Summary URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=gvh733/
+2025-04-01 12:21:21,146 - INFO - FANZA ID used: gvh733
+2025-04-01 12:21:21,147 - INFO - Found summary for GVH-733 from FANZA
+2025-04-01 12:29:02,231 - INFO - Fetching summary from FANZA for movie ID: GVH-450
+2025-04-01 12:29:02,232 - INFO - 检测到已知前缀 gvh，映射到 13gvh
+2025-04-01 12:29:02,233 - INFO - 特殊处理映射，最终ID: 13gvh450
+2025-04-01 12:29:02,233 - INFO - 影片编号 GVH-450 已被标准化为 13gvh450
+2025-04-01 12:29:02,234 - INFO - 无法匹配常规格式，使用原始ID: 13gvh450
+2025-04-01 12:29:02,235 - INFO - 标准化ID: 13gvh450 -> 13gvh450
+2025-04-01 12:29:02,235 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:02,236 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:02,236 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:02,237 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:02,237 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:02,238 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:02,238 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:03,084 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:03,943 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:05,789 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:08,062 - ERROR - 获取电影 GVH-450 的简介失败: HTTPSConnectionPool(host='www.dmm.co.jp', port=443): Max retries exceeded with url: /digital/anime/-/detail/=/cid=13gvh450/ (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1147)')))
+2025-04-01 12:29:08,064 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:09,116 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvh450/
+2025-04-01 12:29:10,689 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: gvh450
+2025-04-01 12:29:10,690 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=gvh450/
+2025-04-01 12:29:16,366 - INFO - 从HTML内容获取摘要
+2025-04-01 12:29:16,368 - INFO - Found summary for GVH-450 from source: html
+2025-04-01 12:29:16,369 - INFO - Summary URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=gvh450/
+2025-04-01 12:29:16,369 - INFO - FANZA ID used: gvh450
+2025-04-01 12:29:16,370 - INFO - Found summary for GVH-450 from FANZA
+2025-04-01 12:51:04,683 - INFO - Configuration saved successfully
+2025-04-01 12:51:34,587 - INFO - 已从配置文件加载 57 条番号映射
+2025-04-01 12:51:34,587 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'drtp': '1drpt', 'emth': 'h_1638emth', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-04-01 12:51:34,589 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-04-01 12:51:34,590 - INFO - 番号映射初始化完成，共加载 57 条映射规则
+2025-04-01 12:51:34,590 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-04-01 12:51:34,590 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-04-01 12:51:34,591 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-04-01 12:51:34,592 - INFO - Loaded configuration file: config/config.json
+2025-04-01 12:51:34,593 - INFO - Using API URL from config file: https://javbus-api-from-ovnrain-taupe.vercel.app/api
+2025-04-01 12:52:41,666 - INFO - Fetching summary from FANZA for movie ID: GVG-987
+2025-04-01 12:52:41,668 - INFO - 检测到已知前缀 gvg，映射到 13gvg
+2025-04-01 12:52:41,669 - INFO - 特殊处理映射，最终ID: 13gvg987
+2025-04-01 12:52:41,670 - INFO - 影片编号 GVG-987 已被标准化为 13gvg987
+2025-04-01 12:52:41,672 - INFO - 无法匹配常规格式，使用原始ID: 13gvg987
+2025-04-01 12:52:41,674 - INFO - 标准化ID: 13gvg987 -> 13gvg987
+2025-04-01 12:52:41,676 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:41,677 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:41,679 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:41,680 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:41,680 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:41,681 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:41,682 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:43,476 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:44,685 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:45,546 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:46,376 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:48,294 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=13gvg987/
+2025-04-01 12:52:49,213 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: gvg987
+2025-04-01 12:52:49,213 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=gvg987/
+2025-04-01 12:52:52,091 - INFO - 从HTML内容获取摘要
+2025-04-01 12:52:52,093 - INFO - Found summary for GVG-987 from source: html
+2025-04-01 12:52:52,094 - INFO - Summary URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=gvg987/
+2025-04-01 12:52:52,094 - INFO - FANZA ID used: gvg987
+2025-04-01 12:52:52,095 - INFO - Found summary for GVG-987 from FANZA
+2025-04-01 12:53:32,583 - INFO - Fetching summary from FANZA for movie ID: FJIN-067
+2025-04-01 12:53:32,584 - INFO - 无映射，使用默认格式，最终ID: fjin00067
+2025-04-01 12:53:32,584 - INFO - 影片编号 FJIN-067 已被标准化为 fjin00067
+2025-04-01 12:53:32,585 - INFO - ID已是标准格式: fjin00067
+2025-04-01 12:53:32,585 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=fjin00067/
+2025-04-01 12:53:32,586 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=fjin00067/
+2025-04-01 12:53:32,586 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=fjin00067/
+2025-04-01 12:53:32,587 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=fjin00067/
+2025-04-01 12:53:32,587 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=fjin00067/
+2025-04-01 12:53:32,588 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=fjin00067/
+2025-04-01 12:53:32,588 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=fjin00067/
+2025-04-01 12:53:32,589 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=fjin00067/
+2025-04-01 12:53:34,408 - INFO - 从JSON-LD获取摘要
+2025-04-01 12:53:34,410 - INFO - Found summary for FJIN-067 from source: json-ld
+2025-04-01 12:53:34,413 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=fjin00067/
+2025-04-01 12:53:34,414 - INFO - FANZA ID used: fjin00067
+2025-04-01 12:53:34,415 - INFO - Found summary for FJIN-067 from FANZA
+2025-04-01 12:54:24,784 - INFO - Fetching summary from FANZA for movie ID: SORA-592
+2025-04-01 12:54:24,785 - INFO - 无映射，使用默认格式，最终ID: sora00592
+2025-04-01 12:54:24,786 - INFO - 影片编号 SORA-592 已被标准化为 sora00592
+2025-04-01 12:54:24,786 - INFO - ID已是标准格式: sora00592
+2025-04-01 12:54:24,788 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=sora00592/
+2025-04-01 12:54:24,788 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=sora00592/
+2025-04-01 12:54:24,789 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=sora00592/
+2025-04-01 12:54:24,790 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=sora00592/
+2025-04-01 12:54:24,790 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=sora00592/
+2025-04-01 12:54:24,791 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=sora00592/
+2025-04-01 12:54:24,791 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=sora00592/
+2025-04-01 12:54:24,792 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=sora00592/
+2025-04-01 12:54:26,497 - INFO - 从JSON-LD获取摘要
+2025-04-01 12:54:26,499 - INFO - Found summary for SORA-592 from source: json-ld
+2025-04-01 12:54:26,501 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=sora00592/
+2025-04-01 12:54:26,502 - INFO - FANZA ID used: sora00592
+2025-04-01 12:54:26,503 - INFO - Found summary for SORA-592 from FANZA
+2025-04-01 12:54:47,813 - INFO - Fetching summary from FANZA for movie ID: XVSR-806
+2025-04-01 12:54:47,813 - INFO - 无映射，使用默认格式，最终ID: xvsr00806
+2025-04-01 12:54:47,815 - INFO - 影片编号 XVSR-806 已被标准化为 xvsr00806
+2025-04-01 12:54:47,815 - INFO - ID已是标准格式: xvsr00806
+2025-04-01 12:54:47,816 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=xvsr00806/
+2025-04-01 12:54:47,817 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=xvsr00806/
+2025-04-01 12:54:47,817 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=xvsr00806/
+2025-04-01 12:54:47,818 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=xvsr00806/
+2025-04-01 12:54:47,819 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=xvsr00806/
+2025-04-01 12:54:47,819 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=xvsr00806/
+2025-04-01 12:54:47,820 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=xvsr00806/
+2025-04-01 12:54:47,820 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=xvsr00806/
+2025-04-01 12:54:49,463 - INFO - 从JSON-LD获取摘要
+2025-04-01 12:54:49,466 - INFO - Found summary for XVSR-806 from source: json-ld
+2025-04-01 12:54:49,466 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=xvsr00806/
+2025-04-01 12:54:49,467 - INFO - FANZA ID used: xvsr00806
+2025-04-01 12:54:49,467 - INFO - Found summary for XVSR-806 from FANZA
+2025-04-01 12:55:15,772 - INFO - Fetching summary from FANZA for movie ID: AUKG-623
+2025-04-01 12:55:15,773 - INFO - 无映射，使用默认格式，最终ID: aukg00623
+2025-04-01 12:55:15,773 - INFO - 影片编号 AUKG-623 已被标准化为 aukg00623
+2025-04-01 12:55:15,774 - INFO - ID已是标准格式: aukg00623
+2025-04-01 12:55:15,774 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=aukg00623/
+2025-04-01 12:55:15,775 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=aukg00623/
+2025-04-01 12:55:15,775 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=aukg00623/
+2025-04-01 12:55:15,776 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=aukg00623/
+2025-04-01 12:55:15,776 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=aukg00623/
+2025-04-01 12:55:15,777 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=aukg00623/
+2025-04-01 12:55:15,777 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=aukg00623/
+2025-04-01 12:55:15,778 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=aukg00623/
+2025-04-01 12:55:17,915 - INFO - 从JSON-LD获取摘要
+2025-04-01 12:55:17,917 - INFO - Found summary for AUKG-623 from source: json-ld
+2025-04-01 12:55:17,918 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=aukg00623/
+2025-04-01 12:55:17,919 - INFO - FANZA ID used: aukg00623
+2025-04-01 12:55:17,919 - INFO - Found summary for AUKG-623 from FANZA
+2025-04-01 12:55:24,824 - INFO - Fetching summary from FANZA for movie ID: QBD-101
+2025-04-01 12:55:24,825 - INFO - 无映射，使用默认格式，最终ID: qbd00101
+2025-04-01 12:55:24,825 - INFO - 影片编号 QBD-101 已被标准化为 qbd00101
+2025-04-01 12:55:24,826 - INFO - ID已是标准格式: qbd00101
+2025-04-01 12:55:24,827 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:24,827 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:24,828 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:24,829 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:24,829 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:24,830 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:24,830 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:24,831 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:26,235 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:28,164 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:29,154 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:30,142 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:31,064 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=qbd00101/
+2025-04-01 12:55:33,103 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: qbd101
+2025-04-01 12:55:33,105 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=qbd101/
+2025-04-01 12:55:34,092 - WARNING - 未能获取到电影 QBD-101 的简介
+2025-04-01 12:55:34,095 - INFO - 无映射，使用默认格式，最终ID: qbd00101
+2025-04-01 12:55:34,095 - WARNING - Could not find summary for QBD-101 (normalized as qbd00101)
+2025-04-01 12:56:22,885 - INFO - Fetching summary from FANZA for movie ID: SMOK-013
+2025-04-01 12:56:22,886 - INFO - 无映射，使用默认格式，最终ID: smok00013
+2025-04-01 12:56:22,886 - INFO - 影片编号 SMOK-013 已被标准化为 smok00013
+2025-04-01 12:56:22,887 - INFO - ID已是标准格式: smok00013
+2025-04-01 12:56:22,887 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=smok00013/
+2025-04-01 12:56:22,888 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=smok00013/
+2025-04-01 12:56:22,888 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=smok00013/
+2025-04-01 12:56:22,889 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=smok00013/
+2025-04-01 12:56:22,889 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=smok00013/
+2025-04-01 12:56:22,890 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=smok00013/
+2025-04-01 12:56:22,890 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=smok00013/
+2025-04-01 12:56:22,891 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=smok00013/
+2025-04-01 12:56:24,150 - INFO - 从JSON-LD获取摘要
+2025-04-01 12:56:24,152 - INFO - Found summary for SMOK-013 from source: json-ld
+2025-04-01 12:56:24,152 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=smok00013/
+2025-04-01 12:56:24,153 - INFO - FANZA ID used: smok00013
+2025-04-01 12:56:24,153 - INFO - Found summary for SMOK-013 from FANZA
+2025-04-01 12:57:00,774 - INFO - Fetching summary from FANZA for movie ID: SOAV-123
+2025-04-01 12:57:00,774 - INFO - 无映射，使用默认格式，最终ID: soav00123
+2025-04-01 12:57:00,775 - INFO - 影片编号 SOAV-123 已被标准化为 soav00123
+2025-04-01 12:57:00,775 - INFO - ID已是标准格式: soav00123
+2025-04-01 12:57:00,776 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=soav00123/
+2025-04-01 12:57:00,776 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=soav00123/
+2025-04-01 12:57:00,777 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=soav00123/
+2025-04-01 12:57:00,777 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=soav00123/
+2025-04-01 12:57:00,778 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=soav00123/
+2025-04-01 12:57:00,778 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=soav00123/
+2025-04-01 12:57:00,779 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=soav00123/
+2025-04-01 12:57:00,779 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=soav00123/
+2025-04-01 12:57:03,288 - INFO - 从JSON-LD获取摘要
+2025-04-01 12:57:03,290 - INFO - Found summary for SOAV-123 from source: json-ld
+2025-04-01 12:57:03,291 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=soav00123/
+2025-04-01 12:57:03,291 - INFO - FANZA ID used: soav00123
+2025-04-01 12:57:03,292 - INFO - Found summary for SOAV-123 from FANZA
+2025-04-01 12:57:17,496 - INFO - Fetching summary from FANZA for movie ID: MMUS-096
+2025-04-01 12:57:17,497 - INFO - 无映射，使用默认格式，最终ID: mmus00096
+2025-04-01 12:57:17,497 - INFO - 影片编号 MMUS-096 已被标准化为 mmus00096
+2025-04-01 12:57:17,498 - INFO - ID已是标准格式: mmus00096
+2025-04-01 12:57:17,498 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=mmus00096/
+2025-04-01 12:57:17,499 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=mmus00096/
+2025-04-01 12:57:17,499 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=mmus00096/
+2025-04-01 12:57:17,500 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=mmus00096/
+2025-04-01 12:57:17,500 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=mmus00096/
+2025-04-01 12:57:17,501 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=mmus00096/
+2025-04-01 12:57:17,501 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=mmus00096/
+2025-04-01 12:57:17,502 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=mmus00096/
+2025-04-01 12:57:19,245 - INFO - 从JSON-LD获取摘要
+2025-04-01 12:57:19,248 - INFO - Found summary for MMUS-096 from source: json-ld
+2025-04-01 12:57:19,248 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=mmus00096/
+2025-04-01 12:57:19,249 - INFO - FANZA ID used: mmus00096
+2025-04-01 12:57:19,249 - INFO - Found summary for MMUS-096 from FANZA
+2025-04-01 12:57:28,083 - INFO - Fetching summary from FANZA for movie ID: DSD-899
+2025-04-01 12:57:28,084 - INFO - 无映射，使用默认格式，最终ID: dsd00899
+2025-04-01 12:57:28,085 - INFO - 影片编号 DSD-899 已被标准化为 dsd00899
+2025-04-01 12:57:28,085 - INFO - ID已是标准格式: dsd00899
+2025-04-01 12:57:28,086 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=dsd00899/
+2025-04-01 12:57:28,086 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=dsd00899/
+2025-04-01 12:57:28,087 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=dsd00899/
+2025-04-01 12:57:28,087 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=dsd00899/
+2025-04-01 12:57:28,088 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=dsd00899/
+2025-04-01 12:57:28,088 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=dsd00899/
+2025-04-01 12:57:28,089 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=dsd00899/
+2025-04-01 12:57:28,090 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=dsd00899/
+2025-04-01 12:57:30,236 - INFO - 从JSON-LD获取摘要
+2025-04-01 12:57:30,238 - INFO - Found summary for DSD-899 from source: json-ld
+2025-04-01 12:57:30,239 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=dsd00899/
+2025-04-01 12:57:30,239 - INFO - FANZA ID used: dsd00899
+2025-04-01 12:57:30,240 - INFO - Found summary for DSD-899 from FANZA
+2025-04-01 12:57:44,039 - INFO - Fetching summary from FANZA for movie ID: YST-331
+2025-04-01 12:57:44,039 - INFO - 无映射，使用默认格式，最终ID: yst00331
+2025-04-01 12:57:44,040 - INFO - 影片编号 YST-331 已被标准化为 yst00331
+2025-04-01 12:57:44,040 - INFO - ID已是标准格式: yst00331
+2025-04-01 12:57:44,041 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=yst00331/
+2025-04-01 12:57:44,041 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=yst00331/
+2025-04-01 12:57:44,042 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=yst00331/
+2025-04-01 12:57:44,042 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=yst00331/
+2025-04-01 12:57:44,043 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=yst00331/
+2025-04-01 12:57:44,043 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=yst00331/
+2025-04-01 12:57:44,044 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=yst00331/
+2025-04-01 12:57:44,044 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=yst00331/
+2025-04-01 12:57:45,041 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=yst00331/
+2025-04-01 12:57:45,308 - ERROR - Failed to download image from https://pics.dmm.co.jp/mono/actjpgs/nowprinting.gif: HTTPSConnectionPool(host='pics.dmm.co.jp', port=443): Max retries exceeded with url: /mono/actjpgs/nowprinting.gif (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1147)')))
+2025-04-01 12:57:45,635 - ERROR - Failed to download image from https://pics.dmm.co.jp/digital/video/540yst00331/540yst00331jp-8.jpg: HTTPSConnectionPool(host='pics.dmm.co.jp', port=443): Max retries exceeded with url: /digital/video/540yst00331/540yst00331jp-8.jpg (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1147)')))
+2025-04-01 12:57:47,021 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=yst00331/
+2025-04-01 12:57:47,955 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=yst00331/
+2025-04-01 12:57:48,876 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=yst00331/
+2025-04-01 12:57:49,879 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=yst00331/
+2025-04-01 12:57:51,059 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: yst331
+2025-04-01 12:57:51,060 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=yst331/
+2025-04-01 12:57:52,001 - WARNING - 未能获取到电影 YST-331 的简介
+2025-04-01 12:57:52,003 - INFO - 无映射，使用默认格式，最终ID: yst00331
+2025-04-01 12:57:52,004 - WARNING - Could not find summary for YST-331 (normalized as yst00331)
+2025-04-01 12:58:39,780 - INFO - Fetching summary from FANZA for movie ID: YSN-640
+2025-04-01 12:58:39,781 - INFO - 无映射，使用默认格式，最终ID: ysn00640
+2025-04-01 12:58:39,781 - INFO - 影片编号 YSN-640 已被标准化为 ysn00640
+2025-04-01 12:58:39,782 - INFO - ID已是标准格式: ysn00640
+2025-04-01 12:58:39,782 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:39,783 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:39,783 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:39,784 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:39,784 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:39,784 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:39,785 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:39,785 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:40,636 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:41,615 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:42,941 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:43,849 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:44,880 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=ysn00640/
+2025-04-01 12:58:46,028 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: ysn640
+2025-04-01 12:58:46,029 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=ysn640/
+2025-04-01 12:58:47,055 - WARNING - 未能获取到电影 YSN-640 的简介
+2025-04-01 12:58:47,057 - INFO - 无映射，使用默认格式，最终ID: ysn00640
+2025-04-01 12:58:47,058 - WARNING - Could not find summary for YSN-640 (normalized as ysn00640)
+2025-04-01 12:59:41,533 - INFO - Fetching summary from FANZA for movie ID: DFDM-056
+2025-04-01 12:59:41,533 - INFO - 无映射，使用默认格式，最终ID: dfdm00056
+2025-04-01 12:59:41,534 - INFO - 影片编号 DFDM-056 已被标准化为 dfdm00056
+2025-04-01 12:59:41,534 - INFO - ID已是标准格式: dfdm00056
+2025-04-01 12:59:41,535 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:41,535 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:41,536 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:41,536 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:41,537 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:41,537 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:41,538 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:41,539 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:43,726 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:44,673 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:45,597 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:46,584 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:47,524 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=dfdm00056/
+2025-04-01 12:59:48,496 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: dfdm056
+2025-04-01 12:59:48,497 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=dfdm056/
+2025-04-01 12:59:49,756 - WARNING - 未能获取到电影 DFDM-056 的简介
+2025-04-01 12:59:49,759 - INFO - 无映射，使用默认格式，最终ID: dfdm00056
+2025-04-01 12:59:49,760 - WARNING - Could not find summary for DFDM-056 (normalized as dfdm00056)
+2025-04-01 13:00:22,361 - INFO - Fetching summary from FANZA for movie ID: CAD-031
+2025-04-01 13:00:22,362 - INFO - 无映射，使用默认格式，最终ID: cad00031
+2025-04-01 13:00:22,362 - INFO - 影片编号 CAD-031 已被标准化为 cad00031
+2025-04-01 13:00:22,363 - INFO - ID已是标准格式: cad00031
+2025-04-01 13:00:22,363 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=cad00031/
+2025-04-01 13:00:22,364 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=cad00031/
+2025-04-01 13:00:22,364 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=cad00031/
+2025-04-01 13:00:22,365 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=cad00031/
+2025-04-01 13:00:22,365 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=cad00031/
+2025-04-01 13:00:22,365 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=cad00031/
+2025-04-01 13:00:22,366 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=cad00031/
+2025-04-01 13:00:22,366 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=cad00031/
+2025-04-01 13:00:23,420 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=cad00031/
+2025-04-01 13:00:24,470 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=cad00031/
+2025-04-01 13:00:25,444 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=cad00031/
+2025-04-01 13:00:26,639 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=cad00031/
+2025-04-01 13:00:28,394 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=cad00031/
+2025-04-01 13:00:29,532 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: cad031
+2025-04-01 13:00:29,533 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=cad031/
+2025-04-01 13:00:30,495 - WARNING - 未能获取到电影 CAD-031 的简介
+2025-04-01 13:00:30,498 - INFO - 无映射，使用默认格式，最终ID: cad00031
+2025-04-01 13:00:30,498 - WARNING - Could not find summary for CAD-031 (normalized as cad00031)
+2025-04-01 13:00:49,626 - INFO - Fetching summary from FANZA for movie ID: YMDD-440
+2025-04-01 13:00:49,627 - INFO - 无映射，使用默认格式，最终ID: ymdd00440
+2025-04-01 13:00:49,627 - INFO - 影片编号 YMDD-440 已被标准化为 ymdd00440
+2025-04-01 13:00:49,628 - INFO - ID已是标准格式: ymdd00440
+2025-04-01 13:00:49,629 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=ymdd00440/
+2025-04-01 13:00:49,629 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=ymdd00440/
+2025-04-01 13:00:49,630 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=ymdd00440/
+2025-04-01 13:00:49,630 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=ymdd00440/
+2025-04-01 13:00:49,631 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=ymdd00440/
+2025-04-01 13:00:49,631 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=ymdd00440/
+2025-04-01 13:00:49,632 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=ymdd00440/
+2025-04-01 13:00:49,632 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=ymdd00440/
+2025-04-01 13:00:51,892 - INFO - 从JSON-LD获取摘要
+2025-04-01 13:00:51,895 - INFO - Found summary for YMDD-440 from source: json-ld
+2025-04-01 13:00:51,896 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=ymdd00440/
+2025-04-01 13:00:51,897 - INFO - FANZA ID used: ymdd00440
+2025-04-01 13:00:51,898 - INFO - Found summary for YMDD-440 from FANZA
+2025-04-01 13:01:07,227 - INFO - Fetching summary from FANZA for movie ID: HALE-060
+2025-04-01 13:01:07,227 - INFO - 无映射，使用默认格式，最终ID: hale00060
+2025-04-01 13:01:07,228 - INFO - 影片编号 HALE-060 已被标准化为 hale00060
+2025-04-01 13:01:07,228 - INFO - ID已是标准格式: hale00060
+2025-04-01 13:01:07,229 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=hale00060/
+2025-04-01 13:01:07,229 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=hale00060/
+2025-04-01 13:01:07,230 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=hale00060/
+2025-04-01 13:01:07,230 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=hale00060/
+2025-04-01 13:01:07,231 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=hale00060/
+2025-04-01 13:01:07,231 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=hale00060/
+2025-04-01 13:01:07,232 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=hale00060/
+2025-04-01 13:01:07,232 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=hale00060/
+2025-04-01 13:01:09,817 - INFO - 从JSON-LD获取摘要
+2025-04-01 13:01:09,819 - INFO - Found summary for HALE-060 from source: json-ld
+2025-04-01 13:01:09,819 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=hale00060/
+2025-04-01 13:01:09,820 - INFO - FANZA ID used: hale00060
+2025-04-01 13:01:09,820 - INFO - Found summary for HALE-060 from FANZA
+2025-04-01 13:01:19,759 - INFO - Fetching summary from FANZA for movie ID: NKD-327
+2025-04-01 13:01:19,759 - INFO - 无映射，使用默认格式，最终ID: nkd00327
+2025-04-01 13:01:19,760 - INFO - 影片编号 NKD-327 已被标准化为 nkd00327
+2025-04-01 13:01:19,761 - INFO - ID已是标准格式: nkd00327
+2025-04-01 13:01:19,761 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=nkd00327/
+2025-04-01 13:01:19,762 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=nkd00327/
+2025-04-01 13:01:19,762 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=nkd00327/
+2025-04-01 13:01:19,763 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=nkd00327/
+2025-04-01 13:01:19,763 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=nkd00327/
+2025-04-01 13:01:19,764 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=nkd00327/
+2025-04-01 13:01:19,764 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=nkd00327/
+2025-04-01 13:01:19,765 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=nkd00327/
+2025-04-01 13:01:21,379 - INFO - 从JSON-LD获取摘要
+2025-04-01 13:01:21,381 - INFO - Found summary for NKD-327 from source: json-ld
+2025-04-01 13:01:21,382 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=nkd00327/
+2025-04-01 13:01:21,383 - INFO - FANZA ID used: nkd00327
+2025-04-01 13:01:21,384 - INFO - Found summary for NKD-327 from FANZA
+2025-04-01 13:01:31,532 - INFO - Fetching summary from FANZA for movie ID: EVIS-582
+2025-04-01 13:01:31,533 - INFO - 无映射，使用默认格式，最终ID: evis00582
+2025-04-01 13:01:31,533 - INFO - 影片编号 EVIS-582 已被标准化为 evis00582
+2025-04-01 13:01:31,534 - INFO - ID已是标准格式: evis00582
+2025-04-01 13:01:31,534 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=evis00582/
+2025-04-01 13:01:31,535 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=evis00582/
+2025-04-01 13:01:31,535 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=evis00582/
+2025-04-01 13:01:31,536 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=evis00582/
+2025-04-01 13:01:31,536 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=evis00582/
+2025-04-01 13:01:31,537 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=evis00582/
+2025-04-01 13:01:31,537 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=evis00582/
+2025-04-01 13:01:31,538 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=evis00582/
+2025-04-01 13:01:32,998 - INFO - 从JSON-LD获取摘要
+2025-04-01 13:01:33,000 - INFO - Found summary for EVIS-582 from source: json-ld
+2025-04-01 13:01:33,001 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=evis00582/
+2025-04-01 13:01:33,001 - INFO - FANZA ID used: evis00582
+2025-04-01 13:01:33,002 - INFO - Found summary for EVIS-582 from FANZA
+2025-04-01 13:01:40,380 - INFO - Fetching summary from FANZA for movie ID: EMBZ-320
+2025-04-01 13:01:40,381 - INFO - 无映射，使用默认格式，最终ID: embz00320
+2025-04-01 13:01:40,382 - INFO - 影片编号 EMBZ-320 已被标准化为 embz00320
+2025-04-01 13:01:40,383 - INFO - ID已是标准格式: embz00320
+2025-04-01 13:01:40,383 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=embz00320/
+2025-04-01 13:01:40,384 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=embz00320/
+2025-04-01 13:01:40,385 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=embz00320/
+2025-04-01 13:01:40,385 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=embz00320/
+2025-04-01 13:01:40,385 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=embz00320/
+2025-04-01 13:01:40,386 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=embz00320/
+2025-04-01 13:01:40,387 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=embz00320/
+2025-04-01 13:01:40,387 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=embz00320/
+2025-04-01 13:01:41,966 - INFO - 从JSON-LD获取摘要
+2025-04-01 13:01:41,968 - INFO - Found summary for EMBZ-320 from source: json-ld
+2025-04-01 13:01:41,968 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=embz00320/
+2025-04-01 13:01:41,969 - INFO - FANZA ID used: embz00320
+2025-04-01 13:01:41,969 - INFO - Found summary for EMBZ-320 from FANZA
+2025-04-01 13:01:53,486 - INFO - Fetching summary from FANZA for movie ID: BIJN-272
+2025-04-01 13:01:53,486 - INFO - 无映射，使用默认格式，最终ID: bijn00272
+2025-04-01 13:01:53,487 - INFO - 影片编号 BIJN-272 已被标准化为 bijn00272
+2025-04-01 13:01:53,487 - INFO - ID已是标准格式: bijn00272
+2025-04-01 13:01:53,488 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=bijn00272/
+2025-04-01 13:01:53,488 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=bijn00272/
+2025-04-01 13:01:53,489 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=bijn00272/
+2025-04-01 13:01:53,490 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=bijn00272/
+2025-04-01 13:01:53,490 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=bijn00272/
+2025-04-01 13:01:53,491 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=bijn00272/
+2025-04-01 13:01:53,492 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=bijn00272/
+2025-04-01 13:01:53,493 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=bijn00272/
+2025-04-01 13:01:55,054 - INFO - 从JSON-LD获取摘要
+2025-04-01 13:01:55,056 - INFO - Found summary for BIJN-272 from source: json-ld
+2025-04-01 13:01:55,057 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=bijn00272/
+2025-04-01 13:01:55,058 - INFO - FANZA ID used: bijn00272
+2025-04-01 13:01:55,058 - INFO - Found summary for BIJN-272 from FANZA
+2025-04-01 13:02:12,303 - INFO - Fetching summary from FANZA for movie ID: SKMJ-611
+2025-04-01 13:02:12,303 - INFO - 无映射，使用默认格式，最终ID: skmj00611
+2025-04-01 13:02:12,304 - INFO - 影片编号 SKMJ-611 已被标准化为 skmj00611
+2025-04-01 13:02:12,304 - INFO - ID已是标准格式: skmj00611
+2025-04-01 13:02:12,305 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:12,305 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:12,306 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:12,306 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:12,307 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:12,307 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:12,308 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:12,308 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:13,351 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:14,259 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:15,146 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:16,038 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:16,950 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=skmj00611/
+2025-04-01 13:02:17,924 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: skmj611
+2025-04-01 13:02:17,924 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=skmj611/
+2025-04-01 13:02:18,903 - WARNING - 未能获取到电影 SKMJ-611 的简介
+2025-04-01 13:02:18,905 - INFO - 无映射，使用默认格式，最终ID: skmj00611
+2025-04-01 13:02:18,906 - WARNING - Could not find summary for SKMJ-611 (normalized as skmj00611)
+2025-04-01 13:03:38,269 - INFO - Fetching summary from FANZA for movie ID: ORECZ-042
+2025-04-01 13:03:38,270 - INFO - 无映射，使用默认格式，最终ID: orecz00042
+2025-04-01 13:03:38,271 - INFO - 影片编号 ORECZ-042 已被标准化为 orecz00042
+2025-04-01 13:03:38,273 - INFO - ID已是标准格式: orecz00042
+2025-04-01 13:03:38,274 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:38,277 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:38,278 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:38,279 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:38,280 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:38,280 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:38,281 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:38,282 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:39,354 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:40,273 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:41,190 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:42,074 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:43,062 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=orecz00042/
+2025-04-01 13:03:45,273 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: orecz042
+2025-04-01 13:03:45,273 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=orecz042/
+2025-04-01 13:03:46,492 - WARNING - 未能获取到电影 ORECZ-042 的简介
+2025-04-01 13:03:46,494 - INFO - 无映射，使用默认格式，最终ID: orecz00042
+2025-04-01 13:03:46,494 - WARNING - Could not find summary for ORECZ-042 (normalized as orecz00042)
+2025-04-01 13:05:09,277 - INFO - Fetching summary from FANZA for movie ID: GRMO-218
+2025-04-01 13:05:09,278 - INFO - 无映射，使用默认格式，最终ID: grmo00218
+2025-04-01 13:05:09,278 - INFO - 影片编号 GRMO-218 已被标准化为 grmo00218
+2025-04-01 13:05:09,279 - INFO - ID已是标准格式: grmo00218
+2025-04-01 13:05:09,279 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:09,280 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:09,280 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:09,281 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:09,281 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:09,282 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:09,282 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:09,282 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:10,700 - INFO - 尝试URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:11,606 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:13,661 - INFO - 尝试URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:14,610 - INFO - 尝试URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:15,845 - INFO - 尝试URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=grmo00218/
+2025-04-01 13:05:17,856 - INFO - 标准化ID搜索失败，尝试使用原始ID格式: grmo218
+2025-04-01 13:05:17,857 - INFO - 尝试原始ID URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=grmo218/
+2025-04-01 13:05:18,869 - WARNING - 未能获取到电影 GRMO-218 的简介
+2025-04-01 13:05:18,871 - INFO - 无映射，使用默认格式，最终ID: grmo00218
+2025-04-01 13:05:18,872 - WARNING - Could not find summary for GRMO-218 (normalized as grmo00218)
+2025-04-01 13:05:49,482 - INFO - Fetching summary from FANZA for movie ID: DVEH-050
+2025-04-01 13:05:49,482 - INFO - 无映射，使用默认格式，最终ID: dveh00050
+2025-04-01 13:05:49,483 - INFO - 影片编号 DVEH-050 已被标准化为 dveh00050
+2025-04-01 13:05:49,483 - INFO - ID已是标准格式: dveh00050
+2025-04-01 13:05:49,483 - INFO - 交换URL优先级，首选: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=dveh00050/
+2025-04-01 13:05:49,484 - INFO - URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=dveh00050/
+2025-04-01 13:05:49,484 - INFO - URL: https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=dveh00050/
+2025-04-01 13:05:49,485 - INFO - URL: https://www.dmm.co.jp/digital/videoc/-/detail/=/cid=dveh00050/
+2025-04-01 13:05:49,485 - INFO - URL: https://www.dmm.co.jp/digital/anime/-/detail/=/cid=dveh00050/
+2025-04-01 13:05:49,486 - INFO - URL: https://www.dmm.co.jp/mono/anime/-/detail/=/cid=dveh00050/
+2025-04-01 13:05:49,486 - INFO - URL: https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=dveh00050/
+2025-04-01 13:05:49,487 - INFO - 尝试URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=dveh00050/
+2025-04-01 13:05:52,030 - INFO - 从JSON-LD获取摘要
+2025-04-01 13:05:52,033 - INFO - Found summary for DVEH-050 from source: json-ld
+2025-04-01 13:05:52,035 - INFO - Summary URL: https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=dveh00050/
+2025-04-01 13:05:52,035 - INFO - FANZA ID used: dveh00050
+2025-04-01 13:05:52,036 - INFO - Found summary for DVEH-050 from FANZA
+2025-04-01 13:07:20,976 - INFO - 已从配置文件加载 57 条番号映射
+2025-04-01 13:07:20,977 - INFO - 完整映射: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom', 'bazx': '7bazx', 'bdd': '1BDD', 'dandy': '1Dandy', 'dph': '33dph', 'dphn': '33dphn', 'drtp': '1drpt', 'emth': 'h_1638emth', 'fcp': 'h_001fcp', 'fsdss': '1fsdss', 'fset': '1FSET', 'gar': '1GAR', 'gesu': '49gesu', 'glod': '196glod', 'gvg': '13gvg', 'gvh': '13gvh', 'hbad': '1HBAD', 'hunt': '1HUNT', 'hvad': '1HVAD', 'ibw': '504ibw', 'idol': '1IDOL', 'iene': '1IENE', 'iesp': '1IESP', 'ksd': '5421ksd', 'ktds': 'h_094ktds', 'lol': '12lol', 'midv': '48midv', 'mjad': 'h_402mjad', 'mxgs': 'h_068mxgs', 'natr': 'h_067natr', 'need': 'h_198need', 'nhdt': '1NHDT', 'nhdta': '1NHDTA', 'nxg': 'h_254nxg', 'okad': '84okad', 'open': '1open', 'ped': '24ped', 'r': 'h_093r', 'rct': '1rct', 'rctd': '1rctd', 'sace': '1SACE', 'sama': 'h_244sama', 'sdde': '1SDDE', 'sddm': '1SDDM', 'sdmt': '1SDMT', 'sma': '83sma', 'star': '1STAR', 'stars': '1stars', 'svdvd': '1SVDVD', 'sw': 'h_635SW', 't': '55t', 'tkbn': 'h_254tkbn', 'vspdr': '1VSPDR', 'vspds': '1VSPDS', 'wnz': '3wnz'}
+2025-04-01 13:07:20,978 - INFO - 已从配置文件加载 1 条番号尾缀
+2025-04-01 13:07:20,979 - INFO - 番号映射初始化完成，共加载 57 条映射规则
+2025-04-01 13:07:20,979 - INFO - 番号尾缀映射初始化完成，共加载 1 条尾缀
+2025-04-01 13:07:20,980 - INFO - 映射样例: {'abf': '118abf', 'abp': '118abp', 'atom': '1atom'}
+2025-04-01 13:07:20,980 - INFO - 尾缀映射样例: {'ibw': 'z'}
+2025-04-01 13:07:20,982 - INFO - Loaded configuration file: config/config.json
+2025-04-01 13:07:20,982 - INFO - Using API URL from config file: 
+2025-04-01 13:07:33,661 - ERROR - 搜索失败: Invalid URL '/movies': No scheme supplied. Perhaps you meant https:///movies?
